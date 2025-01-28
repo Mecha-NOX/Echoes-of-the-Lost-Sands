@@ -52,8 +52,8 @@
 
 ## **Screenshots / GIFs**
 
-![EchoesofTheLostSands1](https://github.com/Mecha-NOX/Crimson-Reign/blob/a25e80371f11529981b74ab1a8296420be9e41f4/GIFs/Crimson-Reign_Second.gif)
-![EchoesofTheLostSands2](https://github.com/Mecha-NOX/Crimson-Reign/blob/a25e80371f11529981b74ab1a8296420be9e41f4/GIFs/Crimson-Reign_Third.gif)
+![EchoesofTheLostSands1](https://github.com/Mecha-NOX/Echoes-of-the-Lost-Sands/blob/2545ac942142999a175d22f04bf78ca24379fc73/GIFs/EchoesOfTheLostSands_First.gif)
+![EchoesofTheLostSands2](https://github.com/Mecha-NOX/Echoes-of-the-Lost-Sands/blob/2545ac942142999a175d22f04bf78ca24379fc73/GIFs/EchoesOfTheLostSands_Third.gif)
 
 ---
 
